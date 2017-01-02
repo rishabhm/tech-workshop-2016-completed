@@ -1,0 +1,17 @@
+{
+  "name": "chick-tech-node-js-workshop",
+  "version": "0.0.1",
+  "description": "Rock paper scissors",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.13.3",
+    "socket.io": "^1.7.1"
+  },
+  "license": "MIT"
+}
